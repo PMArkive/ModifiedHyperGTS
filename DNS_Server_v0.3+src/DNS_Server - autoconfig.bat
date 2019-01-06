@@ -1,0 +1,1 @@
+@start DNS_Server.exe /auto
